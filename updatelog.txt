@@ -1,0 +1,5 @@
+**UPDATE LOG FOR CHANGES MADE TO SUDOKU PROGRAM**
+
+1/29/2021-Joey, Added Testing (and potentially flexing if we get a better board generator) Feature That Displays How Long It Took To Generate The Board
+2/13/2021-Joey, Added New Board Generator. Program uses that one for board, but still runs Brians for time comparison.
+2/25/2021-Joey, Tried New Board Removal Algorith. Changed user inputted nums to blue.
